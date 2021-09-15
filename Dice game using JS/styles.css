@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  font-size: 8rem;
+  color: #D4ECDD;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+}
+
+body{
+  background-color: #112031;
+  font-family: 'Open Sans', sans-serif;
+}
+.body-clas{
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+p{
+  font-size: 2rem;
+  color: #D4ECDD;
+}
+img{
+  width: 80%;
+}
+.dice-game{
+  text-align: center;
+  display: inline-block;
+}
+footer{
+  text-align: center;
+  color: #D4ECDD;
+  margin-top: 5%;
+}
