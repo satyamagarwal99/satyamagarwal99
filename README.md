@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyamagarwal99
-- 👀 I’m interested in Machine Learning Projects and web development
-- 🌱 I’m currently learningfull stack development
+- 👀 I’m interested in Machine Learning Projects and Full Stack Web Development
+- 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me @satyam.agarwal99
 
